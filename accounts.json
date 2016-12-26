@@ -1,0 +1,12 @@
+[
+{
+	"steamid64":"YourSteamId64",
+	"username":"YourSteamUsername",
+	"password":"YourSteamPassword"
+},
+{
+	"steamid64":"YourSecondSteamId64",
+	"username":"YourSecondSteamUsername",
+	"password":"YourSecondSteamPassword"
+},
+]
