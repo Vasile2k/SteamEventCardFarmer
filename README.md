@@ -11,6 +11,8 @@ A little script for PhantomJS that explores your queue on Steam and gives you fr
 ## Usage
 Add your maFiles into `maFiles` folder, SteamAuthenticatorCmd into `Steam` folder and your account login information in `accounts.json` file. After that execute `runAll.bat` and stop it after some time...
 
+Also, `phantomjs` executable has to be in the same directory or `PATH` environment variable should point to it.
+
 ## License
 * This thing is distributed under [Apache 2.0 license](LICENSE)
 
