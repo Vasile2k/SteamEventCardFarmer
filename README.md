@@ -1,7 +1,7 @@
 # SteamEventCardFarmer
 A little script for PhantomJS that explores your queue on Steam and gives you free cards
 
-## Prerequisities
+## Prerequisites
 
 * [PhantomJS](http://phantomjs.org/)
 * [Python](https://www.python.org/)
